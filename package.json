@@ -1,0 +1,23 @@
+{
+  "name": "0002039atm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "0002039atm": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Mudabbrali\"",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.11"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  }
+}
